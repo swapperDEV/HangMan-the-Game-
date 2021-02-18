@@ -1,0 +1,35 @@
+b {
+    opacity: 0;
+    font-size: 20px;
+}
+.person {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#leftup {
+    float: left;
+}
+#leftright {
+    float: left;
+}
+#midleft {
+    clear: both;
+    float: left;
+}
+#midright {
+    float: left;
+}
+.wis {
+    display: none;
+}
+input {
+    font-size: 30px;
+}
+button {
+    font-size: 30px;
+}
+p, i {
+    font-size: 20px;
+}
